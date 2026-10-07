@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "channel": "playtest",
+  "latest": {
+    "url": "https://github.com/Essy7126/catabase-distribution/releases/download/v0.1.0/Catabase-0.1.0-windows-x86_64.zip",
+    "executable": "Catabase.exe",
+    "sha256": "891ca9455310f05a9a3a20e7c79fd375e68aa18f494d7aa7833dafa2a231587f",
+    "unpacked_size_bytes": 999227572,
+    "version": "0.1.0",
+    "size_bytes": 956226691
+  },
+  "news": [
+    {
+      "id": "premiere-descente-0-1-0",
+      "date": "2026-10-07",
+      "version": "0.1.0",
+      "title": "Votre première descente sur Windows",
+      "summary": "Installez Catabase, retrouvez les nouvelles du jeu et partez à l’aventure depuis le launcher.",
+      "body": "Bienvenue dans cette première version de test de Catabase.\n\nLE JEU\nAchille traverse les Enfers dans un roguelite tactique au tour par tour. Deux modes sont proposés : Classique, avec équipement et techniques, et Cartes — Prototype v1.\n\nLE LAUNCHER\nLe bouton Installer télécharge le jeu pour vous. Une fois l’installation terminée, cliquez sur Jouer. Le jeu contient tout ce qui est nécessaire : vous n’avez pas à installer Godot.\n\nLES PROCHAINES VERSIONS\nLes nouvelles versions apparaîtront ici avec leurs explications. Votre progression est enregistrée séparément des fichiers du jeu. Une version déjà installée reste jouable hors ligne.\n\nCette première distribution sert à tester le jeu entre amis ; les règles et le contenu continueront d’évoluer."
+    },
+    {
+      "id": "bienvenue",
+      "date": "2026-10-07",
+      "version": "",
+      "title": "Bienvenue au seuil des Enfers",
+      "summary": "Les nouvelles de Catabase, les versions de test et votre prochaine descente réunies au même endroit.",
+      "body": "Achille vous attend.\n\nCatabase est un roguelite tactique au tour par tour : composez votre équipement, explorez les Enfers et choisissez vos combats.\n\nCe launcher réunit l’installation du jeu, les dernières mises à jour et les actualités de votre aventure."
+    },
+    {
+      "id": "suivre-aventure",
+      "date": "2026-10-07",
+      "version": "",
+      "title": "Suivre l’aventure",
+      "summary": "Des nouvelles expliquées, pour comprendre ce qui change entre deux parties.",
+      "body": "Chaque nouvelle version pourra être accompagnée d’un journal de mise à jour : nouveautés, équilibrage et corrections.\n\nLes actualités peuvent aussi être publiées entre deux versions du jeu. Revenez ici pour découvrir les prochaines étapes de Catabase."
+    }
+  ]
+}

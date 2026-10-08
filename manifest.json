@@ -11,6 +11,14 @@
   },
   "news": [
     {
+      "id": "launcher-bureau-0-1-4",
+      "date": "2026-10-08",
+      "version": "",
+      "title": "Votre porte vers les Enfers, sur le Bureau",
+      "summary": "Un raccourci Catabase Launcher pour retrouver le jeu, les actualités et les mises à jour.",
+      "body": "UN POINT D’ENTRÉE FIXE\nAu premier lancement du nouvel exécutable, le launcher s’installe sur votre ordinateur et crée le raccourci Catabase Launcher sur le Bureau, avec son icône Catabase.\n\nJOUER ET METTRE À JOUR\nOuvrez ce raccourci pour lire les actualités, installer les versions disponibles et lancer le jeu. Vous pouvez ensuite supprimer le fichier téléchargé : le raccourci ouvre la copie installée du launcher.\n\nRETROUVER LE RACCOURCI\nLe bouton Raccourci Bureau permet de le recréer. Si vous arrivez depuis la mise à jour d’un ancien launcher, cliquez sur ce bouton une fois pour créer votre raccourci.\n\nVOTRE PROGRESSION\nLe jeu installé et les sauvegardes sont conservés. Aucun droit administrateur ni installation de Godot n’est nécessaire."
+    },
+    {
       "id": "launcher-0-1-3",
       "date": "2026-10-08",
       "version": "",
@@ -44,9 +52,9 @@
     }
   ],
   "launcher": {
-    "sha256": "914d3ec346d2b3634fbc379325eb9719e680e1db865c02df075c2e31432dc47a",
-    "size_bytes": 111020304,
-    "version": "0.1.3",
-    "url": "https://github.com/Essy7126/catabase-distribution/releases/download/launcher-v0.1.3/CatabaseLauncher.exe"
+    "sha256": "6f9eebfb0e699bbd39ea2cda14ee628a9090918267bbcdd5270b022e53e4645b",
+    "size_bytes": 111031576,
+    "version": "0.1.4",
+    "url": "https://github.com/Essy7126/catabase-distribution/releases/download/launcher-v0.1.4/CatabaseLauncher.exe"
   }
 }

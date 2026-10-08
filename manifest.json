@@ -11,10 +11,18 @@
   },
   "news": [
     {
+      "id": "launcher-0-1-3",
+      "date": "2026-10-08",
+      "version": "",
+      "title": "Un launcher qui vous accompagne",
+      "summary": "Les prochaines versions du launcher se téléchargeront pour vous, sans perdre votre jeu ni votre progression.",
+      "body": "MISE À JOUR DU LAUNCHER\nÀ partir du launcher 0.1.3, ses nouvelles versions se téléchargent en arrière-plan. Une fois la mise à jour vérifiée, cliquez sur Redémarrer le launcher pour l’appliquer.\n\nVOTRE AVENTURE CONTINUE\nVous pouvez consulter le journal et jouer pendant cette préparation. Le redémarrage devient disponible après une installation du jeu ou après votre partie. Vos fichiers de jeu et vos sauvegardes sont conservés.\n\nPOUR COMMENCER\nSi vous avez encore un launcher 0.1.2 ou antérieur, téléchargez une dernière fois le nouvel exécutable depuis le lien habituel. Les prochaines mises à jour du launcher passeront ensuite par cette nouvelle interface."
+    },
+    {
       "id": "premiere-descente-0-1-0",
       "date": "2026-10-07",
       "version": "0.1.0",
-      "title": "Votre première descente sur Windows",
+      "title": "Votre première descente aux Enfers",
       "summary": "Installez Catabase, retrouvez les nouvelles du jeu et partez à l’aventure depuis le launcher.",
       "body": "Bienvenue dans cette première version de test de Catabase.\n\nLE JEU\nAchille traverse les Enfers dans un roguelite tactique au tour par tour. Deux modes sont proposés : Classique, avec équipement et techniques, et Cartes — Prototype v1.\n\nLE LAUNCHER\nLe bouton Installer télécharge le jeu pour vous. Une fois l’installation terminée, cliquez sur Jouer. Le jeu contient tout ce qui est nécessaire : vous n’avez pas à installer Godot.\n\nLES PROCHAINES VERSIONS\nLes nouvelles versions apparaîtront ici avec leurs explications. Votre progression est enregistrée séparément des fichiers du jeu. Une version déjà installée reste jouable hors ligne.\n\nCette première distribution sert à tester le jeu entre amis ; les règles et le contenu continueront d’évoluer."
     },
@@ -34,5 +42,11 @@
       "summary": "Des nouvelles expliquées, pour comprendre ce qui change entre deux parties.",
       "body": "Chaque nouvelle version pourra être accompagnée d’un journal de mise à jour : nouveautés, équilibrage et corrections.\n\nLes actualités peuvent aussi être publiées entre deux versions du jeu. Revenez ici pour découvrir les prochaines étapes de Catabase."
     }
-  ]
+  ],
+  "launcher": {
+    "sha256": "914d3ec346d2b3634fbc379325eb9719e680e1db865c02df075c2e31432dc47a",
+    "size_bytes": 111020304,
+    "version": "0.1.3",
+    "url": "https://github.com/Essy7126/catabase-distribution/releases/download/launcher-v0.1.3/CatabaseLauncher.exe"
+  }
 }

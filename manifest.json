@@ -11,12 +11,20 @@
   },
   "news": [
     {
+      "id": "launcher-installation-0-1-6",
+      "date": "2026-10-08",
+      "version": "",
+      "title": "Catabase s’installe chez vous",
+      "summary": "Un assistant en français, vos raccourcis au choix et le jeu à portée de clic.",
+      "body": "UNE INSTALLATION WINDOWS\nTéléchargez CatabaseSetup.exe et laissez-vous guider : choisissez votre dossier d’installation, votre entrée dans le menu Démarrer et, si vous le souhaitez, une icône sur le Bureau. En fin d’installation, vous pouvez ouvrir le launcher directement.\n\nVOTRE PROCHAINE DESCENTE\nDans le launcher, cliquez sur Installer le jeu, puis sur Jouer. Les actualités et les nouvelles versions restent accessibles depuis la même interface. Vous n’avez pas besoin d’installer Godot.\n\nDÉJÀ UN LAUNCHER ?\nLes launchers récents reçoivent cette version automatiquement. Pour ajouter une installation reconnue par Windows et sa désinstallation, ouvrez une fois CatabaseSetup.exe. Votre jeu téléchargé et votre progression sont conservés.\n\nVOS CHOIX SONT RESPECTÉS\nLe launcher ne crée plus de raccourci automatiquement. Vous pourrez le désinstaller dans Paramètres Windows, Applications, Catabase Launcher. Les sauvegardes et le jeu téléchargé restent disponibles pour une prochaine installation."
+    },
+    {
       "id": "launcher-bureau-0-1-4",
       "date": "2026-10-08",
       "version": "",
       "title": "Votre porte vers les Enfers, sur le Bureau",
       "summary": "Un raccourci Catabase Launcher pour retrouver le jeu, les actualités et les mises à jour.",
-      "body": "UN POINT D’ENTRÉE FIXE\nAu premier lancement du nouvel exécutable, le launcher s’installe sur votre ordinateur et crée le raccourci Catabase Launcher sur le Bureau, avec son icône Catabase.\n\nJOUER ET METTRE À JOUR\nOuvrez ce raccourci pour lire les actualités, installer les versions disponibles et lancer le jeu. Vous pouvez ensuite supprimer le fichier téléchargé : le raccourci ouvre la copie installée du launcher.\n\nRETROUVER LE RACCOURCI\nLe bouton Raccourci Bureau permet de le recréer. Si vous arrivez depuis la mise à jour d’un ancien launcher, cliquez sur ce bouton une fois pour créer votre raccourci.\n\nVOTRE PROGRESSION\nLe jeu installé et les sauvegardes sont conservés. Aucun droit administrateur ni installation de Godot n’est nécessaire."
+      "body": "UN POINT D’ENTRÉE FIXE\nLe raccourci Catabase Launcher ouvre le jeu, les actualités et les mises à jour depuis votre Bureau.\n\nINSTALLER VOTRE RACCOURCI\nDepuis la version 0.1.6, ouvrez CatabaseSetup.exe et cochez Créer une icône sur le Bureau dans l’assistant d’installation. Il remplace la création automatique de raccourci des versions 0.1.4 et 0.1.5.\n\nJOUER ET METTRE À JOUR\nOuvrez ce raccourci pour lire les actualités, installer les versions disponibles et lancer le jeu. Vous pouvez ensuite supprimer le fichier d’installation téléchargé.\n\nVOTRE PROGRESSION\nLe jeu installé et les sauvegardes sont conservés. Aucun droit administrateur ni installation de Godot n’est nécessaire."
     },
     {
       "id": "launcher-0-1-3",
@@ -52,9 +60,9 @@
     }
   ],
   "launcher": {
-    "sha256": "eef2da8dfe39944c9bc189efa845dc0cd38bc5e47d3bb67ada0a530facb3ea2c",
-    "size_bytes": 111031672,
-    "version": "0.1.5",
-    "url": "https://github.com/Essy7126/catabase-distribution/releases/download/launcher-v0.1.5/CatabaseLauncher.exe"
+    "version": "0.1.6",
+    "size_bytes": 111022672,
+    "sha256": "6d54f51de007c284131884a6bf1a380e5b882063e4b6a3164ec7237381876c03",
+    "url": "https://github.com/Essy7126/catabase-distribution/releases/download/launcher-v0.1.6/CatabaseLauncher.exe"
   }
 }

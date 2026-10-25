@@ -2,14 +2,22 @@
   "schema_version": 1,
   "channel": "playtest",
   "latest": {
-    "url": "https://github.com/Essy7126/catabase-distribution/releases/download/v0.1.0/Catabase-0.1.0-windows-x86_64.zip",
+    "unpacked_size_bytes": 2076079635,
+    "url": "https://github.com/Essy7126/catabase-distribution/releases/download/v0.2.0/Catabase-0.2.0-windows-x86_64.zip",
+    "sha256": "9a9983d11e82df95e3d9710bb873a97b7968d434820a1ff9c56f6a6ff2bdf51e",
     "executable": "Catabase.exe",
-    "sha256": "891ca9455310f05a9a3a20e7c79fd375e68aa18f494d7aa7833dafa2a231587f",
-    "unpacked_size_bytes": 999227572,
-    "version": "0.1.0",
-    "size_bytes": 956226691
+    "size_bytes": 2056476268,
+    "version": "0.2.0"
   },
   "news": [
+    {
+      "version": "0.2.0",
+      "summary": "Assassin et Arpenteur, nouvelles cartes, butin, forge et interfaces repensées pour vos prochaines runs.",
+      "title": "Une nouvelle descente, cartes en main",
+      "body": "LA RUN CARTES ÉVOLUE\nChoisissez Assassin ou Arpenteur et retrouvez le socle élémentaire, une main de départ à trois cartes et de nouvelles cartes de circulation : pioche, tri, défausse, conservation et génération. Les variantes Élites apportent de nouvelles possibilités aux nouveaux départs.\n\nDU BUTIN À LA FORGE\nOuvrez vos sacs de cartes, complétez des manuels et utilisez trousses, fournitures et plans. Les armes possèdent leurs cartes natives à réserve limitée : rechargez-les à la forge ou sacrifiez une arme déséquipée pour en extraire une carte chargée.\n\nUNE PRÉSENTATION PLUS LISIBLE\nRetrouvez les cartes illustrées, le nouvel inventaire, les récompenses, les fiches de contenu et les interfaces aux tons chauds. Passe-rive et Veilleur accompagnent votre personnage dans les haltes et les combats.\n\nDE NOUVELLES RENCONTRES\nLe parcours intègre notamment le Porte-stèle, le Roi sans tombe, le Garde des Gisants et Charon. Le tutoriel d’Achille peut être rejoué depuis le menu ; Nouvelle run ouvre directement la préparation du personnage.\n\nPOUR TESTER\nInstallez la mise à jour depuis le launcher. Une nouvelle run Cartes est recommandée pour découvrir tous les nouveaux lots de butin et de circulation : les sauvegardes antérieures conservent leur contrat de départ. Votre progression reste enregistrée séparément des fichiers du jeu.",
+      "id": "cartes-socle-0-2-0",
+      "date": "2026-10-25"
+    },
     {
       "id": "launcher-installation-0-1-6",
       "date": "2026-10-08",

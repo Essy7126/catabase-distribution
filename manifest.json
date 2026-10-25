@@ -2,14 +2,22 @@
   "schema_version": 1,
   "channel": "playtest",
   "latest": {
-    "unpacked_size_bytes": 2076079635,
-    "url": "https://github.com/Essy7126/catabase-distribution/releases/download/v0.2.0/Catabase-0.2.0-windows-x86_64.zip",
-    "sha256": "9a9983d11e82df95e3d9710bb873a97b7968d434820a1ff9c56f6a6ff2bdf51e",
-    "executable": "Catabase.exe",
-    "size_bytes": 2056476268,
-    "version": "0.2.0"
+    "url": "https://github.com/Essy7126/catabase-distribution/releases/download/v0.2.1/Catabase-0.2.1-windows-x86_64.zip",
+    "unpacked_size_bytes": 2095553839,
+    "version": "0.2.1",
+    "sha256": "bffea0dc021a03dd923027b86d61b72a700cd307d2d6483de0beb0492c56c154",
+    "size_bytes": 2076794002,
+    "executable": "Catabase.exe"
   },
   "news": [
+    {
+      "id": "cartes-seuil-correctif-0-2-1",
+      "date": "2026-10-25",
+      "version": "0.2.1",
+      "title": "Le passage du Seuil est rétabli",
+      "summary": "Un correctif pour entrer dans une nouvelle run Cartes depuis le launcher.",
+      "body": "UN DÉPART CORRIGÉ\nLa préparation du Seuil retrouve les images techniques nécessaires dans la version distribuée. L’écran demandant de préparer à nouveau la halte ne bloque plus les nouveaux départs.\n\nPOUR JOUER\nCliquez sur Actualiser puis sur Mettre à jour dans le launcher. Le correctif conserve les règles et le contenu de la version 0.2.0 ainsi que vos sauvegardes. Le téléchargement reste un paquet complet."
+    },
     {
       "id": "launcher-cartes-0-1-7",
       "date": "2026-10-25",

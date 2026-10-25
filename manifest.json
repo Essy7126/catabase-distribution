@@ -11,6 +11,14 @@
   },
   "news": [
     {
+      "id": "launcher-cartes-0-1-7",
+      "date": "2026-10-25",
+      "version": "",
+      "title": "Votre launcher prêt pour la nouvelle descente",
+      "summary": "Les nouvelles de la run Cartes 0.2.0 vous attendent dès l’ouverture du launcher.",
+      "body": "LES NOUVELLES DE CATABASE\nLe launcher 0.1.7 intègre les dernières actualités et les informations de la version 0.2.0. Retrouvez les nouveautés de la run Cartes dans l’article Une nouvelle descente, cartes en main.\n\nUN REDÉMARRAGE PLUS SOUPLE\nLa mise à jour attend plus longtemps la première ouverture lorsque Windows démarre lentement le launcher. Si le lancement échoue, la version précédente est restaurée.\n\nPOUR JOUER\nCliquez sur Installer le jeu pour votre première installation, ou sur Mettre à jour si le jeu est déjà présent. Le téléchargement complet représente environ 2,06 Go. Une nouvelle run Cartes est conseillée pour découvrir tous les nouveaux lots.\n\nVOTRE LAUNCHER À JOUR\nSi la version 0.1.6 est déjà ouverte, cliquez sur Actualiser, puis sur Redémarrer le launcher lorsque sa mise à jour est prête. Pour une nouvelle installation, utilisez le lien habituel CatabaseSetup.exe et choisissez vos raccourcis dans l’assistant."
+    },
+    {
       "version": "0.2.0",
       "summary": "Assassin et Arpenteur, nouvelles cartes, butin, forge et interfaces repensées pour vos prochaines runs.",
       "title": "Une nouvelle descente, cartes en main",
@@ -68,9 +76,9 @@
     }
   ],
   "launcher": {
-    "version": "0.1.6",
-    "size_bytes": 111022672,
-    "sha256": "6d54f51de007c284131884a6bf1a380e5b882063e4b6a3164ec7237381876c03",
-    "url": "https://github.com/Essy7126/catabase-distribution/releases/download/launcher-v0.1.6/CatabaseLauncher.exe"
+    "version": "0.1.7",
+    "size_bytes": 111026016,
+    "sha256": "8bec6fa605d95bb9cd78913313975cd6d2136e6511822f8d87ee8c36457433d5",
+    "url": "https://github.com/Essy7126/catabase-distribution/releases/download/launcher-v0.1.7/CatabaseLauncher.exe"
   }
 }

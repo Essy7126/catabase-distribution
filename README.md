@@ -10,6 +10,6 @@ Le launcher affiche les actualités et propose les nouvelles versions du jeu. Se
 
 La désinstallation est disponible dans **Paramètres Windows → Applications → Catabase Launcher**. Elle conserve le jeu téléchargé et les sauvegardes pour une prochaine installation.
 
-Windows 10/11, 64 bits. Le premier téléchargement du jeu représente environ 956 Mo. Les versions sont destinées aux tests entre amis.
+Windows 10/11, 64 bits. Le jeu se télécharge depuis le launcher. Les versions sont destinées aux tests entre amis.
 
 Les binaires et les actualités sont publics ici ; le dépôt de développement reste privé. `CatabaseLauncher.exe` dans les releases sert aux mises à jour automatiques et au mode portable ; utilisez **CatabaseSetup.exe** pour une installation normale.

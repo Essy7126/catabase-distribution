@@ -8,6 +8,8 @@
 
 Le launcher affiche les actualités et propose les nouvelles versions du jeu. Ses propres mises à jour se préparent en arrière-plan et s’appliquent avec **Redémarrer le launcher**. Godot est inclus dans les exécutables : aucun éditeur ni accès au code source n’est nécessaire.
 
+La version joueur propose uniquement l’aventure **Cartes**. À la première découverte, l’histoire et le tutoriel précèdent la préparation du personnage. Ensuite, cette préparation devient l’accueil pour reprendre sa partie ou commencer une nouvelle traversée.
+
 La désinstallation est disponible dans **Paramètres Windows → Applications → Catabase Launcher**. Elle conserve le jeu téléchargé et les sauvegardes pour une prochaine installation.
 
 Windows 10/11, 64 bits. Le jeu se télécharge depuis le launcher. Les versions sont destinées aux tests entre amis.

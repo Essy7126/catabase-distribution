@@ -2,14 +2,30 @@
   "schema_version": 1,
   "channel": "playtest",
   "latest": {
-    "url": "https://github.com/Essy7126/catabase-distribution/releases/download/v0.2.1/Catabase-0.2.1-windows-x86_64.zip",
-    "unpacked_size_bytes": 2095553839,
-    "version": "0.2.1",
-    "sha256": "bffea0dc021a03dd923027b86d61b72a700cd307d2d6483de0beb0492c56c154",
-    "size_bytes": 2076794002,
-    "executable": "Catabase.exe"
+    "size_bytes": 2085079347,
+    "executable": "Catabase.exe",
+    "unpacked_size_bytes": 2103489523,
+    "sha256": "c321c0fa9b8470431c9e5c42077d368226679473b8a099528204985ec57cd3b9",
+    "version": "0.2.2",
+    "url": "https://github.com/Essy7126/catabase-distribution/releases/download/v0.2.2/Catabase-0.2.2-windows-x86_64.zip"
   },
   "news": [
+    {
+      "id": "cartes-parcours-joueur-0-2-2",
+      "date": "2026-10-26",
+      "version": "0.2.2",
+      "title": "Votre traversée Cartes commence ici",
+      "summary": "Une première découverte guidée, puis votre personnage comme accueil pour reprendre ou repartir à l’aventure.",
+      "body": "UNE ENTRÉE DANS L’AVENTURE\nVotre première partie vous accompagne dans l’histoire d’Achille et l’apprentissage des combats Cartes, avant de préparer votre personnage et de franchir le Seuil. Une découverte interrompue retrouve son étape sans imposer la cinématique déjà vue.\n\nVOTRE PERSONNAGE VOUS ATTEND\nAprès cette découverte, vous arrivez directement à la préparation du personnage. Continuez votre traversée enregistrée ou préparez une nouvelle tentative avec Assassin ou Arpenteur. Une confirmation protège votre partie avant son remplacement.\n\nL’AIDE RESTE À PORTÉE\nConsultez le carnet du passeur et les réglages depuis l’accueil. Rejouer l’histoire et le tutoriel reste un choix, qui conserve votre aventure.\n\nVOTRE PROGRESSION EST CONSERVÉE\nLes parties Cartes existantes donnent accès à l’accueil direct. Si le profil de découverte est abîmé, une partie valide reste reprenable et une récupération avec copie de secours est proposée.\n\nPOUR JOUER\nActualisez le launcher puis installez cette mise à jour du jeu. Le téléchargement reste un paquet complet ; les sauvegardes sont conservées."
+    },
+    {
+      "id": "launcher-fiabilite-0-1-8",
+      "date": "2026-10-26",
+      "version": "",
+      "title": "Une traversée mieux accompagnée",
+      "summary": "Réparation du jeu, actions toujours accessibles et lancement protégé, même après avoir fermé le launcher.",
+      "body": "VOS FICHIERS PEUVENT ÊTRE RÉPARÉS\nSi le jeu ne démarre plus correctement, utilisez Réparer les fichiers. Le launcher explique la taille du téléchargement puis réinstalle la version vérifiée. Vos sauvegardes sont conservées.\n\nUN LANCEMENT PROTÉGÉ\nRouvrir le launcher pendant une partie ne permet plus de lancer un deuxième jeu sur la même progression.\n\nDES MISES À JOUR PLUS CLAIRES\nLe téléchargement affiche sa taille et son débit. L’espace libre est contrôlé avant de commencer et l’installation affiche sa progression pendant l’extraction. Fermer le launcher pendant un téléchargement demande confirmation.\n\nUN ACCUEIL PLUS ACCESSIBLE\nLes boutons de téléchargement et de redémarrage restent accessibles sur les petites fenêtres. Le clavier reste dans une actualité ouverte, puis retrouve son emplacement à la fermeture.\n\nLE JEU ET VOTRE PROGRESSION\nCette mise à jour concerne le launcher. Elle ne remplace pas votre sauvegarde et ne modifie pas les règles de votre run."
+    },
     {
       "id": "cartes-seuil-correctif-0-2-1",
       "date": "2026-10-25",

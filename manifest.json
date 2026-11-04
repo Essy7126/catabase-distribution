@@ -11,12 +11,28 @@
   },
   "news": [
     {
-      "id": "launcher-fiabilite-0-1-8",
-      "date": "2026-10-26",
+      "id": "die-for-dawn-mage-acte1-0-3-0",
+      "date": "2026-11-04",
+      "version": "0.3.0",
+      "title": "Die for Dawn : le Mage Feu entre en scène",
+      "summary": "Préparez votre Mage et partez à la découverte de l’Acte I, avec des interfaces et des effets de feu renouvelés.",
+      "body": "VOTRE PERSONNAGE, VOTRE TRAVERSÉE\nDie for Dawn ouvre directement la préparation de votre personnage : choisissez votre nom, votre apparence et votre deck. La cinématique et le tutoriel d’Achille quittent le parcours joueur.\n\nLE MAGE FEU — ACTE I\nLe prototype propose désormais le Mage Feu pour les nouveaux départs : quinze cartes de départ, des Charges à préparer et un arbre de talents pour construire votre stratégie au fil des vingt salles.\n\nPRÉPARER ET COMPRENDRE\nUn guide de composition accompagne le choix des cartes. L’inventaire, les récompenses et les indications de statut rendent la préparation et les effets en combat plus lisibles. Les sorts de feu et quatre apparences ennemies ont été retravaillés.\n\nPOUR JOUER\nActualisez le launcher, installez la mise à jour puis commencez une nouvelle traversée Mage. Le téléchargement reste complet. Les sauvegardes existantes sont conservées ; seules les parties compatibles avec l’accueil actuel sont proposées à la reprise. Cette version reste un prototype de test de l’Acte I.\n\nLa préparation du Seuil et des haltes a été corrigée pour éviter un écran bloquant au début de la traversée."
+    },
+    {
+      "id": "launcher-die-for-dawn-0-1-9",
+      "date": "2026-11-04",
       "version": "",
-      "title": "Une traversée mieux accompagnée",
-      "summary": "Réparation du jeu, actions toujours accessibles et lancement protégé, même après avoir fermé le launcher.",
-      "body": "VOS FICHIERS PEUVENT ÊTRE RÉPARÉS\nSi le jeu ne démarre plus correctement, utilisez Réparer les fichiers. Le launcher explique la taille du téléchargement puis réinstalle la version vérifiée. Vos sauvegardes sont conservées.\n\nUN LANCEMENT PROTÉGÉ\nRouvrir le launcher pendant une partie ne permet plus de lancer un deuxième jeu sur la même progression.\n\nDES MISES À JOUR PLUS CLAIRES\nLe téléchargement affiche sa taille et son débit. L’espace libre est contrôlé avant de commencer et l’installation affiche sa progression pendant l’extraction. Fermer le launcher pendant un téléchargement demande confirmation.\n\nUN ACCUEIL PLUS ACCESSIBLE\nLes boutons de téléchargement et de redémarrage restent accessibles sur les petites fenêtres. Le clavier reste dans une actualité ouverte, puis retrouve son emplacement à la fermeture.\n\nLE JEU ET VOTRE PROGRESSION\nCette mise à jour concerne le launcher. Elle ne remplace pas votre sauvegarde et ne modifie pas les règles de votre run."
+      "title": "Votre launcher devient Die for Dawn",
+      "summary": "Le nouveau nom et l’icône noire et or accompagnent les prochaines traversées.",
+      "body": "DIE FOR DAWN\nLe launcher et son assistant Windows adoptent le nom Die for Dawn et son icône noire et or. Vos dossiers d’installation, vos réglages et vos sauvegardes restent compatibles.\n\nMETTRE À JOUR\nCliquez sur Actualiser, puis sur Redémarrer le launcher lorsque sa mise à jour est prête. Pour une nouvelle installation, le lien habituel de l’installateur Windows reste valable ; l’assistant propose le dossier, le menu Démarrer et le raccourci sur le Bureau.\n\nLE JEU ÉVOLUE AUSSI\nInstallez séparément la version 0.3.0 du jeu pour retrouver le départ Mage Feu et le parcours joueur actualisé."
+    },
+    {
+      "id": "die-for-dawn-nouveau-nom",
+      "date": "2026-11-03",
+      "version": "",
+      "title": "Die for Dawn",
+      "summary": "Votre personnage, vos choix, votre traversée des Enfers.",
+      "body": "Die for Dawn est un roguelite tactique au tour par tour. Choisissez votre nom, façonnez votre personnage et tracez votre chemin vers la surface. Vos parties et vos réglages restent au même endroit."
     },
     {
       "id": "cartes-parcours-joueur-0-2-2",
@@ -25,6 +41,14 @@
       "title": "Votre traversée Cartes commence ici",
       "summary": "Une première découverte guidée, puis votre personnage comme accueil pour reprendre ou repartir à l’aventure.",
       "body": "UNE ENTRÉE DANS L’AVENTURE\nVotre première partie vous accompagne dans l’histoire d’Achille et l’apprentissage des combats Cartes, avant de préparer votre personnage et de franchir le Seuil. Une découverte interrompue retrouve son étape sans imposer la cinématique déjà vue.\n\nVOTRE PERSONNAGE VOUS ATTEND\nAprès cette découverte, vous arrivez directement à la préparation du personnage. Continuez votre traversée enregistrée ou préparez une nouvelle tentative avec Assassin ou Arpenteur. Une confirmation protège votre partie avant son remplacement.\n\nL’AIDE RESTE À PORTÉE\nConsultez le carnet du passeur et les réglages depuis l’accueil. Rejouer l’histoire et le tutoriel reste un choix, qui conserve votre aventure.\n\nVOTRE PROGRESSION EST CONSERVÉE\nLes parties Cartes existantes donnent accès à l’accueil direct. Si le profil de découverte est abîmé, une partie valide reste reprenable et une récupération avec copie de secours est proposée.\n\nPOUR JOUER\nActualisez le launcher puis installez cette mise à jour du jeu. Le téléchargement reste un paquet complet ; les sauvegardes sont conservées."
+    },
+    {
+      "id": "launcher-fiabilite-0-1-8",
+      "date": "2026-10-26",
+      "version": "",
+      "title": "Une traversée mieux accompagnée",
+      "summary": "Réparation du jeu, actions toujours accessibles et lancement protégé, même après avoir fermé le launcher.",
+      "body": "VOS FICHIERS PEUVENT ÊTRE RÉPARÉS\nSi le jeu ne démarre plus correctement, utilisez Réparer les fichiers. Le launcher explique la taille du téléchargement puis réinstalle la version vérifiée. Vos sauvegardes sont conservées.\n\nUN LANCEMENT PROTÉGÉ\nRouvrir le launcher pendant une partie ne permet plus de lancer un deuxième jeu sur la même progression.\n\nDES MISES À JOUR PLUS CLAIRES\nLe téléchargement affiche sa taille et son débit. L’espace libre est contrôlé avant de commencer et l’installation affiche sa progression pendant l’extraction. Fermer le launcher pendant un téléchargement demande confirmation.\n\nUN ACCUEIL PLUS ACCESSIBLE\nLes boutons de téléchargement et de redémarrage restent accessibles sur les petites fenêtres. Le clavier reste dans une actualité ouverte, puis retrouve son emplacement à la fermeture.\n\nLE JEU ET VOTRE PROGRESSION\nCette mise à jour concerne le launcher. Elle ne remplace pas votre sauvegarde et ne modifie pas les règles de votre run."
     },
     {
       "id": "cartes-seuil-correctif-0-2-1",
@@ -40,7 +64,7 @@
       "version": "",
       "title": "Votre launcher prêt pour la nouvelle descente",
       "summary": "Les nouvelles de la run Cartes 0.2.0 vous attendent dès l’ouverture du launcher.",
-      "body": "LES NOUVELLES DE CATABASE\nLe launcher 0.1.7 intègre les dernières actualités et les informations de la version 0.2.0. Retrouvez les nouveautés de la run Cartes dans l’article Une nouvelle descente, cartes en main.\n\nUN REDÉMARRAGE PLUS SOUPLE\nLa mise à jour attend plus longtemps la première ouverture lorsque Windows démarre lentement le launcher. Si le lancement échoue, la version précédente est restaurée.\n\nPOUR JOUER\nCliquez sur Installer le jeu pour votre première installation, ou sur Mettre à jour si le jeu est déjà présent. Le téléchargement complet représente environ 2,06 Go. Une nouvelle run Cartes est conseillée pour découvrir tous les nouveaux lots.\n\nVOTRE LAUNCHER À JOUR\nSi la version 0.1.6 est déjà ouverte, cliquez sur Actualiser, puis sur Redémarrer le launcher lorsque sa mise à jour est prête. Pour une nouvelle installation, utilisez le lien habituel CatabaseSetup.exe et choisissez vos raccourcis dans l’assistant."
+      "body": "LES NOUVELLES DE DIE FOR DAWN\nLe launcher 0.1.7 intègre les dernières actualités et les informations de la version 0.2.0. Retrouvez les nouveautés de la run Cartes dans l’article Une nouvelle descente, cartes en main.\n\nUN REDÉMARRAGE PLUS SOUPLE\nLa mise à jour attend plus longtemps la première ouverture lorsque Windows démarre lentement le launcher. Si le lancement échoue, la version précédente est restaurée.\n\nPOUR JOUER\nCliquez sur Installer le jeu pour votre première installation, ou sur Mettre à jour si le jeu est déjà présent. Le téléchargement complet représente environ 2,06 Go. Une nouvelle run Cartes est conseillée pour découvrir tous les nouveaux lots.\n\nVOTRE LAUNCHER À JOUR\nSi la version 0.1.6 est déjà ouverte, cliquez sur Actualiser, puis sur Redémarrer le launcher lorsque sa mise à jour est prête. Pour une nouvelle installation, utilisez le lien habituel pour télécharger l’installateur Windows et choisissez vos raccourcis dans l’assistant."
     },
     {
       "version": "0.2.0",
@@ -54,17 +78,17 @@
       "id": "launcher-installation-0-1-6",
       "date": "2026-10-08",
       "version": "",
-      "title": "Catabase s’installe chez vous",
+      "title": "Die for Dawn s’installe chez vous",
       "summary": "Un assistant en français, vos raccourcis au choix et le jeu à portée de clic.",
-      "body": "UNE INSTALLATION WINDOWS\nTéléchargez CatabaseSetup.exe et laissez-vous guider : choisissez votre dossier d’installation, votre entrée dans le menu Démarrer et, si vous le souhaitez, une icône sur le Bureau. En fin d’installation, vous pouvez ouvrir le launcher directement.\n\nVOTRE PROCHAINE DESCENTE\nDans le launcher, cliquez sur Installer le jeu, puis sur Jouer. Les actualités et les nouvelles versions restent accessibles depuis la même interface. Vous n’avez pas besoin d’installer Godot.\n\nDÉJÀ UN LAUNCHER ?\nLes launchers récents reçoivent cette version automatiquement. Pour ajouter une installation reconnue par Windows et sa désinstallation, ouvrez une fois CatabaseSetup.exe. Votre jeu téléchargé et votre progression sont conservés.\n\nVOS CHOIX SONT RESPECTÉS\nLe launcher ne crée plus de raccourci automatiquement. Vous pourrez le désinstaller dans Paramètres Windows, Applications, Catabase Launcher. Les sauvegardes et le jeu téléchargé restent disponibles pour une prochaine installation."
+      "body": "UNE INSTALLATION WINDOWS\nTéléchargez l’installateur Windows et laissez-vous guider : choisissez votre dossier d’installation, votre entrée dans le menu Démarrer et, si vous le souhaitez, une icône sur le Bureau. En fin d’installation, vous pouvez ouvrir le launcher directement.\n\nVOTRE PROCHAINE DESCENTE\nDans le launcher, cliquez sur Installer le jeu, puis sur Jouer. Les actualités et les nouvelles versions restent accessibles depuis la même interface. Vous n’avez pas besoin d’installer Godot.\n\nDÉJÀ UN LAUNCHER ?\nLes launchers récents reçoivent cette version automatiquement. Pour ajouter une installation reconnue par Windows et sa désinstallation, ouvrez une fois l’installateur Windows. Votre jeu téléchargé et votre progression sont conservés.\n\nVOS CHOIX SONT RESPECTÉS\nLe launcher ne crée plus de raccourci automatiquement. Vous pourrez le désinstaller dans Paramètres Windows, Applications, Die for Dawn Launcher. Les sauvegardes et le jeu téléchargé restent disponibles pour une prochaine installation."
     },
     {
       "id": "launcher-bureau-0-1-4",
       "date": "2026-10-08",
       "version": "",
       "title": "Votre porte vers les Enfers, sur le Bureau",
-      "summary": "Un raccourci Catabase Launcher pour retrouver le jeu, les actualités et les mises à jour.",
-      "body": "UN POINT D’ENTRÉE FIXE\nLe raccourci Catabase Launcher ouvre le jeu, les actualités et les mises à jour depuis votre Bureau.\n\nINSTALLER VOTRE RACCOURCI\nDepuis la version 0.1.6, ouvrez CatabaseSetup.exe et cochez Créer une icône sur le Bureau dans l’assistant d’installation. Il remplace la création automatique de raccourci des versions 0.1.4 et 0.1.5.\n\nJOUER ET METTRE À JOUR\nOuvrez ce raccourci pour lire les actualités, installer les versions disponibles et lancer le jeu. Vous pouvez ensuite supprimer le fichier d’installation téléchargé.\n\nVOTRE PROGRESSION\nLe jeu installé et les sauvegardes sont conservés. Aucun droit administrateur ni installation de Godot n’est nécessaire."
+      "summary": "Un raccourci Die for Dawn Launcher pour retrouver le jeu, les actualités et les mises à jour.",
+      "body": "UN POINT D’ENTRÉE FIXE\nLe raccourci Die for Dawn Launcher ouvre le jeu, les actualités et les mises à jour depuis votre Bureau.\n\nINSTALLER VOTRE RACCOURCI\nDepuis la version 0.1.6, ouvrez l’installateur Windows et cochez Créer une icône sur le Bureau dans l’assistant d’installation. Il remplace la création automatique de raccourci des versions 0.1.4 et 0.1.5.\n\nJOUER ET METTRE À JOUR\nOuvrez ce raccourci pour lire les actualités, installer les versions disponibles et lancer le jeu. Vous pouvez ensuite supprimer le fichier d’installation téléchargé.\n\nVOTRE PROGRESSION\nLe jeu installé et les sauvegardes sont conservés. Aucun droit administrateur ni installation de Godot n’est nécessaire."
     },
     {
       "id": "launcher-0-1-3",
@@ -79,16 +103,16 @@
       "date": "2026-10-07",
       "version": "0.1.0",
       "title": "Votre première descente aux Enfers",
-      "summary": "Installez Catabase, retrouvez les nouvelles du jeu et partez à l’aventure depuis le launcher.",
-      "body": "Bienvenue dans cette première version de test de Catabase.\n\nLE JEU\nAchille traverse les Enfers dans un roguelite tactique au tour par tour. Deux modes sont proposés : Classique, avec équipement et techniques, et Cartes — Prototype v1.\n\nLE LAUNCHER\nLe bouton Installer télécharge le jeu pour vous. Une fois l’installation terminée, cliquez sur Jouer. Le jeu contient tout ce qui est nécessaire : vous n’avez pas à installer Godot.\n\nLES PROCHAINES VERSIONS\nLes nouvelles versions apparaîtront ici avec leurs explications. Votre progression est enregistrée séparément des fichiers du jeu. Une version déjà installée reste jouable hors ligne.\n\nCette première distribution sert à tester le jeu entre amis ; les règles et le contenu continueront d’évoluer."
+      "summary": "Installez Die for Dawn, retrouvez les nouvelles du jeu et partez à l’aventure depuis le launcher.",
+      "body": "Bienvenue dans cette première version de test de Die for Dawn.\n\nLE JEU\nAchille traverse les Enfers dans un roguelite tactique au tour par tour. Deux modes sont proposés : Classique, avec équipement et techniques, et Cartes — Prototype v1.\n\nLE LAUNCHER\nLe bouton Installer télécharge le jeu pour vous. Une fois l’installation terminée, cliquez sur Jouer. Le jeu contient tout ce qui est nécessaire : vous n’avez pas à installer Godot.\n\nLES PROCHAINES VERSIONS\nLes nouvelles versions apparaîtront ici avec leurs explications. Votre progression est enregistrée séparément des fichiers du jeu. Une version déjà installée reste jouable hors ligne.\n\nCette première distribution sert à tester le jeu entre amis ; les règles et le contenu continueront d’évoluer."
     },
     {
       "id": "bienvenue",
       "date": "2026-10-07",
       "version": "",
       "title": "Bienvenue au seuil des Enfers",
-      "summary": "Les nouvelles de Catabase, les versions de test et votre prochaine descente réunies au même endroit.",
-      "body": "Achille vous attend.\n\nCatabase est un roguelite tactique au tour par tour : composez votre équipement, explorez les Enfers et choisissez vos combats.\n\nCe launcher réunit l’installation du jeu, les dernières mises à jour et les actualités de votre aventure."
+      "summary": "Les nouvelles de Die for Dawn, les versions de test et votre prochaine descente réunies au même endroit.",
+      "body": "Votre aventure vous attend.\n\nDie for Dawn est un roguelite tactique au tour par tour : composez votre équipement, explorez les Enfers et choisissez vos combats.\n\nCe launcher réunit l’installation du jeu, les dernières mises à jour et les actualités de votre aventure."
     },
     {
       "id": "suivre-aventure",
@@ -96,7 +120,7 @@
       "version": "",
       "title": "Suivre l’aventure",
       "summary": "Des nouvelles expliquées, pour comprendre ce qui change entre deux parties.",
-      "body": "Chaque nouvelle version pourra être accompagnée d’un journal de mise à jour : nouveautés, équilibrage et corrections.\n\nLes actualités peuvent aussi être publiées entre deux versions du jeu. Revenez ici pour découvrir les prochaines étapes de Catabase."
+      "body": "Chaque nouvelle version pourra être accompagnée d’un journal de mise à jour : nouveautés, équilibrage et corrections.\n\nLes actualités peuvent aussi être publiées entre deux versions du jeu. Revenez ici pour découvrir les prochaines étapes de Die for Dawn."
     }
   ],
   "launcher": {
@@ -104,5 +128,30 @@
     "size_bytes": 111039592,
     "sha256": "c7d5b09c5e718a2397a99cf044323b4ab44f10fb1393ce7f1fb7a7d6f1543069",
     "url": "https://github.com/Essy7126/catabase-distribution/releases/download/launcher-v0.1.8/CatabaseLauncher.exe"
+  },
+  "latest_v2": {
+    "parts": [
+      {
+        "sha256": "030949094eb5597741742ac1811453834f546552d83827a8469085c57076cbac",
+        "url": "https://github.com/Essy7126/catabase-distribution/releases/download/v0.3.0/Catabase-0.3.0-windows-x86_64.zip.part000",
+        "size_bytes": 1073741824
+      },
+      {
+        "sha256": "51e9c1918455ec20d0374d4c3b6dafeb921ca52f7e629f642ef6bb76059d6b4f",
+        "url": "https://github.com/Essy7126/catabase-distribution/releases/download/v0.3.0/Catabase-0.3.0-windows-x86_64.zip.part001",
+        "size_bytes": 1073741824
+      },
+      {
+        "sha256": "4127a3ba75831d57d43f606dfcd30fde3c25329efcc5e0f3f48d73441252b2c6",
+        "url": "https://github.com/Essy7126/catabase-distribution/releases/download/v0.3.0/Catabase-0.3.0-windows-x86_64.zip.part002",
+        "size_bytes": 565571491
+      }
+    ],
+    "url": "https://github.com/Essy7126/catabase-distribution/releases/download/v0.3.0/Catabase-0.3.0-windows-x86_64.zip.part000",
+    "size_bytes": 2713055139,
+    "unpacked_size_bytes": 2856791534,
+    "version": "0.3.0",
+    "executable": "Catabase.exe",
+    "sha256": "28f17ad18633f590732238b0923bd038eda44f7c039308614ba0d1ed0bc2e2d3"
   }
 }

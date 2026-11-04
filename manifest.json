@@ -124,10 +124,10 @@
     }
   ],
   "launcher": {
-    "version": "0.1.8",
-    "size_bytes": 111039592,
-    "sha256": "c7d5b09c5e718a2397a99cf044323b4ab44f10fb1393ce7f1fb7a7d6f1543069",
-    "url": "https://github.com/Essy7126/catabase-distribution/releases/download/launcher-v0.1.8/CatabaseLauncher.exe"
+    "size_bytes": 114714632,
+    "version": "0.1.9",
+    "sha256": "dfd6a6ddaf8fe754d67f5a25b7c788e8fa8234551ddd89230a30942a92a14b8d",
+    "url": "https://github.com/Essy7126/catabase-distribution/releases/download/launcher-v0.1.9/CatabaseLauncher.exe"
   },
   "latest_v2": {
     "parts": [

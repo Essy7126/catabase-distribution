@@ -1,16 +1,16 @@
-# Catabase — versions de test
+# Die for Dawn — versions de test
 
 [**Télécharger l’installateur Windows — CatabaseSetup.exe**](https://github.com/Essy7126/catabase-distribution/releases/latest/download/CatabaseSetup.exe)
 
 1. Ouvrez `CatabaseSetup.exe` et suivez l’assistant en français.
 2. Choisissez le dossier d’installation, le menu Démarrer et, si vous le souhaitez, une icône sur le Bureau.
-3. Ouvrez **Catabase Launcher**, cliquez sur **Installer le jeu**, puis sur **Jouer**.
+3. Ouvrez **Die for Dawn Launcher**, cliquez sur **Installer le jeu**, puis sur **Jouer**.
 
 Le launcher affiche les actualités et propose les nouvelles versions du jeu. Ses propres mises à jour se préparent en arrière-plan et s’appliquent avec **Redémarrer le launcher**. Godot est inclus dans les exécutables : aucun éditeur ni accès au code source n’est nécessaire.
 
 La version joueur propose uniquement l’aventure **Cartes**. À la première découverte, l’histoire et le tutoriel précèdent la préparation du personnage. Ensuite, cette préparation devient l’accueil pour reprendre sa partie ou commencer une nouvelle traversée.
 
-La désinstallation est disponible dans **Paramètres Windows → Applications → Catabase Launcher**. Elle conserve le jeu téléchargé et les sauvegardes pour une prochaine installation.
+La désinstallation est disponible dans **Paramètres Windows → Applications → Die for Dawn Launcher**. Elle conserve le jeu téléchargé et les sauvegardes pour une prochaine installation.
 
 Windows 10/11, 64 bits. Le jeu se télécharge depuis le launcher. Les versions sont destinées aux tests entre amis.
 

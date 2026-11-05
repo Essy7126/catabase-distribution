@@ -11,6 +11,14 @@
   },
   "news": [
     {
+      "id": "die-for-dawn-launcher-shortcuts-0-1-10",
+      "date": "2026-11-05",
+      "version": "",
+      "title": "Vos raccourcis prennent le nom Die for Dawn",
+      "summary": "Le launcher actualise automatiquement ses anciens raccourcis après sa mise à jour.",
+      "body": "VOTRE LAUNCHER, TOUJOURS AU MÊME ENDROIT\nAprès la mise à jour, les anciens raccourcis du launcher présents sur le Bureau et dans le menu Démarrer prennent le nom Die for Dawn Launcher. Leur icône utilise celle du launcher actualisé.\n\nVOS CHOIX SONT CONSERVÉS\nSi vous n’aviez pas créé de raccourci, aucun n’est ajouté. Les noms personnalisés et les raccourcis d’une autre installation sont conservés. Si le nouveau nom est déjà utilisé dans le même dossier, vos raccourcis restent en place.\n\nPOUR EN PROFITER\nLaissez le launcher télécharger sa mise à jour, puis cliquez sur Redémarrer le launcher. Vos sauvegardes et le jeu installé sont conservés."
+    },
+    {
       "id": "die-for-dawn-mage-acte1-0-3-0",
       "date": "2026-11-04",
       "version": "0.3.0",
@@ -124,10 +132,10 @@
     }
   ],
   "launcher": {
-    "size_bytes": 114714632,
-    "version": "0.1.9",
-    "sha256": "dfd6a6ddaf8fe754d67f5a25b7c788e8fa8234551ddd89230a30942a92a14b8d",
-    "url": "https://github.com/Essy7126/catabase-distribution/releases/download/launcher-v0.1.9/CatabaseLauncher.exe"
+    "sha256": "65c02d9d4bf1d3ddd75295f81d907d0ce0b3d5dbd088e0db7f3a2c1bee9378ef",
+    "version": "0.1.10",
+    "size_bytes": 114721864,
+    "url": "https://github.com/Essy7126/catabase-distribution/releases/download/launcher-v0.1.10/CatabaseLauncher.exe"
   },
   "latest_v2": {
     "parts": [

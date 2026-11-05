@@ -11,6 +11,14 @@
   },
   "news": [
     {
+      "id": "cartes-menu-bivouac-0-3-1",
+      "body": "UN VÉRITABLE MENU PRINCIPAL\nRetrouvez Continuer, Nouvelle aventure, Sauvegarde, Paramètres et Quitter. Nouvelle aventure ouvre la préparation de votre personnage ; les retours au titre vous ramènent au menu. Le parcours public reste consacré à la run Cartes.\n\nLE PASSAGE VERS LA SALLE 3\nLe passage vers le Bivouac oublié s’ouvre de nouveau après la deuxième victoire. Reprenez votre sauvegarde pour continuer la traversée.\n\nPOUR CONTINUER\nFermez le jeu, cliquez sur Actualiser puis sur Mettre à jour dans le launcher. Ouvrez ensuite le jeu et choisissez Continuer. Votre sauvegarde reste conservée. Le téléchargement est un paquet complet.",
+      "summary": "Un menu principal dédié à la run Cartes et un passage rétabli vers le Bivouac oublié.",
+      "date": "2026-11-05",
+      "version": "0.3.1",
+      "title": "Votre aventure retrouve son menu"
+    },
+    {
       "id": "die-for-dawn-launcher-shortcuts-0-1-10",
       "date": "2026-11-05",
       "version": "",
@@ -138,28 +146,28 @@
     "url": "https://github.com/Essy7126/catabase-distribution/releases/download/launcher-v0.1.10/CatabaseLauncher.exe"
   },
   "latest_v2": {
+    "size_bytes": 2721333364,
+    "sha256": "d46eda2b56d6242f43f503702b7b7b2d88d69585e7ce27eed2ac4fa7d95c0e11",
     "parts": [
       {
-        "sha256": "030949094eb5597741742ac1811453834f546552d83827a8469085c57076cbac",
-        "url": "https://github.com/Essy7126/catabase-distribution/releases/download/v0.3.0/Catabase-0.3.0-windows-x86_64.zip.part000",
-        "size_bytes": 1073741824
+        "size_bytes": 1073741824,
+        "sha256": "8231d0af56fe44c8c06a54bf232300b4ff7ec6d40f961a908c26f510a32f9547",
+        "url": "https://github.com/Essy7126/catabase-distribution/releases/download/v0.3.1/Catabase-0.3.1-windows-x86_64.zip.part000"
       },
       {
-        "sha256": "51e9c1918455ec20d0374d4c3b6dafeb921ca52f7e629f642ef6bb76059d6b4f",
-        "url": "https://github.com/Essy7126/catabase-distribution/releases/download/v0.3.0/Catabase-0.3.0-windows-x86_64.zip.part001",
-        "size_bytes": 1073741824
+        "size_bytes": 1073741824,
+        "sha256": "cd91b5b3639cdfac45c1a6c810984ea4177e3ffd7da324f8d4c623ec1a222119",
+        "url": "https://github.com/Essy7126/catabase-distribution/releases/download/v0.3.1/Catabase-0.3.1-windows-x86_64.zip.part001"
       },
       {
-        "sha256": "4127a3ba75831d57d43f606dfcd30fde3c25329efcc5e0f3f48d73441252b2c6",
-        "url": "https://github.com/Essy7126/catabase-distribution/releases/download/v0.3.0/Catabase-0.3.0-windows-x86_64.zip.part002",
-        "size_bytes": 565571491
+        "size_bytes": 573849716,
+        "sha256": "9ea8f84a823a6515a0b83e966c72658e19746bd91ab16cc38951c3bc84a022a0",
+        "url": "https://github.com/Essy7126/catabase-distribution/releases/download/v0.3.1/Catabase-0.3.1-windows-x86_64.zip.part002"
       }
     ],
-    "url": "https://github.com/Essy7126/catabase-distribution/releases/download/v0.3.0/Catabase-0.3.0-windows-x86_64.zip.part000",
-    "size_bytes": 2713055139,
-    "unpacked_size_bytes": 2856791534,
-    "version": "0.3.0",
-    "executable": "Catabase.exe",
-    "sha256": "28f17ad18633f590732238b0923bd038eda44f7c039308614ba0d1ed0bc2e2d3"
+    "url": "https://github.com/Essy7126/catabase-distribution/releases/download/v0.3.1/Catabase-0.3.1-windows-x86_64.zip.part000",
+    "unpacked_size_bytes": 2865641599,
+    "version": "0.3.1",
+    "executable": "Catabase.exe"
   }
 }

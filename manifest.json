@@ -11,6 +11,14 @@
   },
   "news": [
     {
+      "id": "voyageur-0-3-3",
+      "version": "0.3.3",
+      "date": "2026-11-09",
+      "title": "Le Voyageur prend la route",
+      "summary": "Le Voyageur rejoint les nouveaux départs Cartes avec ses animations de marche, de course et de combat.",
+      "body": "Le Voyageur est l’unique personnage proposé pour une nouvelle aventure Cartes. Il se déplace et lance ses sorts avec ses animations dédiées.\n\nPour reprendre une partie existante avec son apparence enregistrée, choisissez Continuer dans le menu principal."
+    },
+    {
       "body": "VOTRE MENU HABITUEL\nRetrouvez le décor animé, le titre, la musique et la disposition du menu principal. Ses choix sont adaptés à votre aventure Cartes : Continuer, Nouvelle aventure, Sauvegarde, Paramètres et Quitter.\n\nDES BOOSTERS ILLUSTRÉS\nLes nouveaux sacs apparaissent dans les récompenses et à côté des équipements dans votre inventaire. Leur dessin distingue les affinités et les raretés ; chaque sac indique combien de cartes restent à découvrir. Consultez sa fiche pour choisir de l’ouvrir.\n\nPOUR JOUER\nFermez le jeu, cliquez sur Actualiser puis sur Mettre à jour dans le launcher. Jouer puis Continuer reprend votre aventure enregistrée.",
       "title": "Votre menu, vos nouveaux sacs",
       "date": "2026-11-05",
@@ -59,14 +67,6 @@
       "body": "Die for Dawn est un roguelite tactique au tour par tour. Choisissez votre nom, façonnez votre personnage et tracez votre chemin vers la surface. Vos parties et vos réglages restent au même endroit."
     },
     {
-      "id": "cartes-parcours-joueur-0-2-2",
-      "date": "2026-10-26",
-      "version": "0.2.2",
-      "title": "Votre traversée Cartes commence ici",
-      "summary": "Une première découverte guidée, puis votre personnage comme accueil pour reprendre ou repartir à l’aventure.",
-      "body": "UNE ENTRÉE DANS L’AVENTURE\nVotre première partie vous accompagne dans l’histoire d’Achille et l’apprentissage des combats Cartes, avant de préparer votre personnage et de franchir le Seuil. Une découverte interrompue retrouve son étape sans imposer la cinématique déjà vue.\n\nVOTRE PERSONNAGE VOUS ATTEND\nAprès cette découverte, vous arrivez directement à la préparation du personnage. Continuez votre traversée enregistrée ou préparez une nouvelle tentative avec Assassin ou Arpenteur. Une confirmation protège votre partie avant son remplacement.\n\nL’AIDE RESTE À PORTÉE\nConsultez le carnet du passeur et les réglages depuis l’accueil. Rejouer l’histoire et le tutoriel reste un choix, qui conserve votre aventure.\n\nVOTRE PROGRESSION EST CONSERVÉE\nLes parties Cartes existantes donnent accès à l’accueil direct. Si le profil de découverte est abîmé, une partie valide reste reprenable et une récupération avec copie de secours est proposée.\n\nPOUR JOUER\nActualisez le launcher puis installez cette mise à jour du jeu. Le téléchargement reste un paquet complet ; les sauvegardes sont conservées."
-    },
-    {
       "id": "launcher-fiabilite-0-1-8",
       "date": "2026-10-26",
       "version": "",
@@ -75,12 +75,12 @@
       "body": "VOS FICHIERS PEUVENT ÊTRE RÉPARÉS\nSi le jeu ne démarre plus correctement, utilisez Réparer les fichiers. Le launcher explique la taille du téléchargement puis réinstalle la version vérifiée. Vos sauvegardes sont conservées.\n\nUN LANCEMENT PROTÉGÉ\nRouvrir le launcher pendant une partie ne permet plus de lancer un deuxième jeu sur la même progression.\n\nDES MISES À JOUR PLUS CLAIRES\nLe téléchargement affiche sa taille et son débit. L’espace libre est contrôlé avant de commencer et l’installation affiche sa progression pendant l’extraction. Fermer le launcher pendant un téléchargement demande confirmation.\n\nUN ACCUEIL PLUS ACCESSIBLE\nLes boutons de téléchargement et de redémarrage restent accessibles sur les petites fenêtres. Le clavier reste dans une actualité ouverte, puis retrouve son emplacement à la fermeture.\n\nLE JEU ET VOTRE PROGRESSION\nCette mise à jour concerne le launcher. Elle ne remplace pas votre sauvegarde et ne modifie pas les règles de votre run."
     },
     {
-      "version": "0.2.0",
-      "summary": "Assassin et Arpenteur, nouvelles cartes, butin, forge et interfaces repensées pour vos prochaines runs.",
-      "title": "Une nouvelle descente, cartes en main",
-      "body": "LA RUN CARTES ÉVOLUE\nChoisissez Assassin ou Arpenteur et retrouvez le socle élémentaire, une main de départ à trois cartes et de nouvelles cartes de circulation : pioche, tri, défausse, conservation et génération. Les variantes Élites apportent de nouvelles possibilités aux nouveaux départs.\n\nDU BUTIN À LA FORGE\nOuvrez vos sacs de cartes, complétez des manuels et utilisez trousses, fournitures et plans. Les armes possèdent leurs cartes natives à réserve limitée : rechargez-les à la forge ou sacrifiez une arme déséquipée pour en extraire une carte chargée.\n\nUNE PRÉSENTATION PLUS LISIBLE\nRetrouvez les cartes illustrées, le nouvel inventaire, les récompenses, les fiches de contenu et les interfaces aux tons chauds. Passe-rive et Veilleur accompagnent votre personnage dans les haltes et les combats.\n\nDE NOUVELLES RENCONTRES\nLe parcours intègre notamment le Porte-stèle, le Roi sans tombe, le Garde des Gisants et Charon. Le tutoriel d’Achille peut être rejoué depuis le menu ; Nouvelle run ouvre directement la préparation du personnage.\n\nPOUR TESTER\nInstallez la mise à jour depuis le launcher. Une nouvelle run Cartes est recommandée pour découvrir tous les nouveaux lots de butin et de circulation : les sauvegardes antérieures conservent leur contrat de départ. Votre progression reste enregistrée séparément des fichiers du jeu.",
-      "id": "cartes-socle-0-2-0",
-      "date": "2026-10-25"
+      "id": "cartes-parcours-joueur-0-2-2",
+      "date": "2026-10-26",
+      "version": "0.2.2",
+      "title": "Votre traversée Cartes commence ici",
+      "summary": "Une première découverte guidée, puis votre personnage comme accueil pour reprendre ou repartir à l’aventure.",
+      "body": "UNE ENTRÉE DANS L’AVENTURE\nVotre première partie vous accompagne dans l’histoire d’Achille et l’apprentissage des combats Cartes, avant de préparer votre personnage et de franchir le Seuil. Une découverte interrompue retrouve son étape sans imposer la cinématique déjà vue.\n\nVOTRE PERSONNAGE VOUS ATTEND\nAprès cette découverte, vous arrivez directement à la préparation du personnage. Continuez votre traversée enregistrée ou préparez une nouvelle tentative avec Assassin ou Arpenteur. Une confirmation protège votre partie avant son remplacement.\n\nL’AIDE RESTE À PORTÉE\nConsultez le carnet du passeur et les réglages depuis l’accueil. Rejouer l’histoire et le tutoriel reste un choix, qui conserve votre aventure.\n\nVOTRE PROGRESSION EST CONSERVÉE\nLes parties Cartes existantes donnent accès à l’accueil direct. Si le profil de découverte est abîmé, une partie valide reste reprenable et une récupération avec copie de secours est proposée.\n\nPOUR JOUER\nActualisez le launcher puis installez cette mise à jour du jeu. Le téléchargement reste un paquet complet ; les sauvegardes sont conservées."
     },
     {
       "id": "cartes-seuil-correctif-0-2-1",
@@ -97,6 +97,14 @@
       "title": "Votre launcher prêt pour la nouvelle descente",
       "summary": "Les nouvelles de la run Cartes 0.2.0 vous attendent dès l’ouverture du launcher.",
       "body": "LES NOUVELLES DE DIE FOR DAWN\nLe launcher 0.1.7 intègre les dernières actualités et les informations de la version 0.2.0. Retrouvez les nouveautés de la run Cartes dans l’article Une nouvelle descente, cartes en main.\n\nUN REDÉMARRAGE PLUS SOUPLE\nLa mise à jour attend plus longtemps la première ouverture lorsque Windows démarre lentement le launcher. Si le lancement échoue, la version précédente est restaurée.\n\nPOUR JOUER\nCliquez sur Installer le jeu pour votre première installation, ou sur Mettre à jour si le jeu est déjà présent. Le téléchargement complet représente environ 2,06 Go. Une nouvelle run Cartes est conseillée pour découvrir tous les nouveaux lots.\n\nVOTRE LAUNCHER À JOUR\nSi la version 0.1.6 est déjà ouverte, cliquez sur Actualiser, puis sur Redémarrer le launcher lorsque sa mise à jour est prête. Pour une nouvelle installation, utilisez le lien habituel pour télécharger l’installateur Windows et choisissez vos raccourcis dans l’assistant."
+    },
+    {
+      "version": "0.2.0",
+      "summary": "Assassin et Arpenteur, nouvelles cartes, butin, forge et interfaces repensées pour vos prochaines runs.",
+      "title": "Une nouvelle descente, cartes en main",
+      "body": "LA RUN CARTES ÉVOLUE\nChoisissez Assassin ou Arpenteur et retrouvez le socle élémentaire, une main de départ à trois cartes et de nouvelles cartes de circulation : pioche, tri, défausse, conservation et génération. Les variantes Élites apportent de nouvelles possibilités aux nouveaux départs.\n\nDU BUTIN À LA FORGE\nOuvrez vos sacs de cartes, complétez des manuels et utilisez trousses, fournitures et plans. Les armes possèdent leurs cartes natives à réserve limitée : rechargez-les à la forge ou sacrifiez une arme déséquipée pour en extraire une carte chargée.\n\nUNE PRÉSENTATION PLUS LISIBLE\nRetrouvez les cartes illustrées, le nouvel inventaire, les récompenses, les fiches de contenu et les interfaces aux tons chauds. Passe-rive et Veilleur accompagnent votre personnage dans les haltes et les combats.\n\nDE NOUVELLES RENCONTRES\nLe parcours intègre notamment le Porte-stèle, le Roi sans tombe, le Garde des Gisants et Charon. Le tutoriel d’Achille peut être rejoué depuis le menu ; Nouvelle run ouvre directement la préparation du personnage.\n\nPOUR TESTER\nInstallez la mise à jour depuis le launcher. Une nouvelle run Cartes est recommandée pour découvrir tous les nouveaux lots de butin et de circulation : les sauvegardes antérieures conservent leur contrat de départ. Votre progression reste enregistrée séparément des fichiers du jeu.",
+      "id": "cartes-socle-0-2-0",
+      "date": "2026-10-25"
     },
     {
       "id": "launcher-installation-0-1-6",
@@ -154,23 +162,23 @@
     "url": "https://github.com/Essy7126/catabase-distribution/releases/download/launcher-v0.1.10/CatabaseLauncher.exe"
   },
   "latest_v2": {
-    "size_bytes": 2742964962,
-    "sha256": "bdad3a4bd4c6b82ca0227ff75ad55f494d5343729f7bb85b1926cec9ca8c53f3",
+    "version": "0.3.3",
+    "url": "https://github.com/Essy7126/catabase-distribution/releases/download/v0.3.3/Catabase-0.3.3-windows-x86_64.zip.part000",
+    "size_bytes": 3601558470,
+    "unpacked_size_bytes": 3758280746,
+    "sha256": "38de0bbf293c86b2150be73bba78214d74ec96f118fb6c4c9422a7ec4c8fd5a2",
+    "executable": "Catabase.exe",
     "parts": [
       {
-        "url": "https://github.com/Essy7126/catabase-distribution/releases/download/v0.3.2/Catabase-0.3.2-windows-x86_64.zip.part000",
-        "sha256": "0a1568a869a29a3b60738337f361fc389098300163c055f46eb06b0269651025",
-        "size_bytes": 1073741824
+        "url": "https://github.com/Essy7126/catabase-distribution/releases/download/v0.3.3/Catabase-0.3.3-windows-x86_64.zip.part000",
+        "size_bytes": 1835008000,
+        "sha256": "3dd1548ca84e5a6fa9410a43fafb28d3a6a25f679b900e3e4cd7d91a13980546"
       },
       {
-        "url": "https://github.com/Essy7126/catabase-distribution/releases/download/v0.3.2/Catabase-0.3.2-windows-x86_64.zip.part001",
-        "sha256": "b36094d05cbadcc2e0ad4470f667e309c9e7725063987d4f66ca9d1c8c4395ef",
-        "size_bytes": 1669223138
+        "url": "https://github.com/Essy7126/catabase-distribution/releases/download/v0.3.3/Catabase-0.3.3-windows-x86_64.zip.part001",
+        "size_bytes": 1766550470,
+        "sha256": "4ccf5318a5ca8745aa9336e20ca6947b4c34018f258be0147be2bd61f3cc07ca"
       }
-    ],
-    "executable": "Catabase.exe",
-    "url": "https://github.com/Essy7126/catabase-distribution/releases/download/v0.3.2/Catabase-0.3.2-windows-x86_64.zip.part000",
-    "version": "0.3.2",
-    "unpacked_size_bytes": 2887433385
+    ]
   }
 }

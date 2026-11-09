@@ -11,6 +11,14 @@
   },
   "news": [
     {
+      "id": "cartes-apres-combat-0-3-4",
+      "version": "0.3.4",
+      "date": "2026-11-09",
+      "title": "Après le combat, explorez la salle",
+      "summary": "Ouvrez le coffre sur place, préparez votre deck et empruntez la sortie vers la salle suivante.",
+      "body": "Après une victoire, retrouvez votre personnage dans la salle libérée. Approchez du coffre pour examiner ou prendre ses récompenses, puis rejoignez la flèche de sortie pour continuer. Le deck distingue vos cartes préparées, votre réserve et votre collection. Les raccourcis vous permettent de consulter le personnage, l’inventaire, le deck, les talents et la carte pendant l’exploration.\n\nÀ la forge, l’établi permet de choisir les charges vides à restaurer. Le devis affiche le coût avant la confirmation."
+    },
+    {
       "id": "voyageur-0-3-3",
       "version": "0.3.3",
       "date": "2026-11-09",
@@ -162,22 +170,27 @@
     "url": "https://github.com/Essy7126/catabase-distribution/releases/download/launcher-v0.1.10/CatabaseLauncher.exe"
   },
   "latest_v2": {
-    "version": "0.3.3",
-    "url": "https://github.com/Essy7126/catabase-distribution/releases/download/v0.3.3/Catabase-0.3.3-windows-x86_64.zip.part000",
-    "size_bytes": 3601558470,
-    "unpacked_size_bytes": 3758280746,
-    "sha256": "38de0bbf293c86b2150be73bba78214d74ec96f118fb6c4c9422a7ec4c8fd5a2",
+    "version": "0.3.4",
+    "url": "https://github.com/Essy7126/catabase-distribution/releases/download/v0.3.4/Catabase-0.3.4-windows-x86_64.zip.part000",
+    "size_bytes": 3841499077,
+    "unpacked_size_bytes": 4002286158,
+    "sha256": "65b4dcedb1bb0145406ca189728ff3e2e747af0fe1ad1571e1fcaecc7d801421",
     "executable": "Catabase.exe",
     "parts": [
       {
-        "url": "https://github.com/Essy7126/catabase-distribution/releases/download/v0.3.3/Catabase-0.3.3-windows-x86_64.zip.part000",
+        "url": "https://github.com/Essy7126/catabase-distribution/releases/download/v0.3.4/Catabase-0.3.4-windows-x86_64.zip.part000",
         "size_bytes": 1835008000,
-        "sha256": "3dd1548ca84e5a6fa9410a43fafb28d3a6a25f679b900e3e4cd7d91a13980546"
+        "sha256": "3e8f840a36d2319a43cc1927aef3c9018135f294ca51a07a5904e5d1d064160d"
       },
       {
-        "url": "https://github.com/Essy7126/catabase-distribution/releases/download/v0.3.3/Catabase-0.3.3-windows-x86_64.zip.part001",
-        "size_bytes": 1766550470,
-        "sha256": "4ccf5318a5ca8745aa9336e20ca6947b4c34018f258be0147be2bd61f3cc07ca"
+        "url": "https://github.com/Essy7126/catabase-distribution/releases/download/v0.3.4/Catabase-0.3.4-windows-x86_64.zip.part001",
+        "size_bytes": 1835008000,
+        "sha256": "5faf4d4ecd10bd124e76e5a244e40584b2494e9cd837942b396c66810c5ed9b6"
+      },
+      {
+        "url": "https://github.com/Essy7126/catabase-distribution/releases/download/v0.3.4/Catabase-0.3.4-windows-x86_64.zip.part002",
+        "size_bytes": 171483077,
+        "sha256": "da70467f7a4ec6ccac1b5282a8a54c9937a36b47723cdb48c8a1e00677c41613"
       }
     ]
   }
